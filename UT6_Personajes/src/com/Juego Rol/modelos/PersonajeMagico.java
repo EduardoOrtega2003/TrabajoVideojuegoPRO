@@ -1,14 +1,11 @@
-package modelos;
+package Modelo;
 
 public abstract class PersonajeMagico extends Personaje {
-    protected int mana;
-
-    public PersonajeMagico(String nombre, int nivel, int salud, int mana) {
+    public PersonajeMagico(String nombre, int nivel, int salud) {
         super(nombre, nivel, salud);
-        this.mana = mana;
     }
 
-    public void recargarMana() {
-        System.out.println(nombre + " recarga su maná. Maná restante: " + mana);
+    public void meditar() {
+        System.out.println(nombre + " medita para aumentar su poder mágico.");
     }
 }

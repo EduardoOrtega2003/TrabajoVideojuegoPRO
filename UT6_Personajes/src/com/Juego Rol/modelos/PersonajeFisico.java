@@ -1,14 +1,11 @@
-package modelos;
+package Modelo;
 
 public abstract class PersonajeFisico extends Personaje {
-    protected int resistencia;
-
-    public PersonajeFisico(String nombre, int nivel, int salud, int resistencia) {
+    public PersonajeFisico(String nombre, int nivel, int salud) {
         super(nombre, nivel, salud);
-        this.resistencia = resistencia;
     }
 
-    public void esquivar() {
-        System.out.println(nombre + " esquiva el ataque usando resistencia de " + resistencia);
+    public void entrenar() {
+        System.out.println(nombre + " entrena para mejorar su fuerza física.");
     }
 }
