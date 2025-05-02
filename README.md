@@ -64,7 +64,24 @@ Thor (Nivel: 10, Salud: 150) VS Morgana (Nivel: 14, Salud: 110)
 Thor ha ganado la batalla.
 ```
 
+## Menú del juego
+
+![image](https://github.com/user-attachments/assets/2ba66104-bc29-43e8-be95-44b7439fbfcd)
+
+## Información de los personajes
+
+![image](https://github.com/user-attachments/assets/bf786048-1b00-44f7-9e84-9c981b95399e)
+
+## Batalla 1vs1
+
+![image](https://github.com/user-attachments/assets/ca5b4b48-4906-4d16-99f0-5d987e984600)
+
+Fin de la batalla 
+
+![image](https://github.com/user-attachments/assets/7465e530-2a47-480b-843c-c5d55087581b)
+
+
 ## 👤 Autores
 
-- Proyecto desarrollado por [Kevin, Yanira, Eduardo]
+- Proyecto desarrollado por Kevin, Yanira, Eduardo.
 
